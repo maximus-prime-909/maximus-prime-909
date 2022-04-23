@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mayank Kumar Srivastava</h1>
 <h3 align="center">Learning the art, one stroke at a time.</h3>
 
-- 🔭 I’m currently working on [Drop-ing](Mate)
+- 🔭 I’m currently working on [Nagar-Seva](nagar-seva)
 
 - 🌱 I’m currently learning **Unity, Kotlin, VueJS**
 
-- 💬 Ask me about **Unity, Game Design**
+- 💬 Ask me about **Unity, Game Design, Android**
 
 - 📫 How to reach me **srv.mayank01@gmail.com**
 
