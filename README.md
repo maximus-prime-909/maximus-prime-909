@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Kumar Srivastava</h1>
 <h3 align="center">Learning the art, one stroke at a time.</h3>
 
-- 🔭 I’m currently working on [Nagar-Seva](https://github.com/maximus-prime-909/nagar-seva)
+- 🔭 I’m currently working on [Nagar Seva](https://github.com/maximus-prime-909/nagar-seva)
 
 - 🌱 I’m currently learning **Unity, Kotlin, VueJS**
 
