@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **srv.mayank01@gmail.com**
 
-- 📄 Know about my experiences [from my Resume](https://docs.google.com/document/d/1Xh_iKlengvtcD2TX9E6BGZ3wW_LylXvY/edit?usp=sharing&ouid=102885140935861654464&rtpof=true&sd=true)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mayank-srivastava-5b7813193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-srivastava-5b7813193" height="30" width="40" /></a>
